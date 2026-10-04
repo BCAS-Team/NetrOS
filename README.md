@@ -4,10 +4,6 @@
  <img src="![NetrOS placeholder.png](NetrOS placeholder.png)" width="400">
 </div>
 
-<p align="center">
-  <b>English</b> · <a href="README.zh.md">简体中文</a>
-</p>
-
 We couldn't think of a name, so we just named it after a guy's username on discord: Netro! :> 
 
 NetrOS is an Arch-based Linux distribution built for a very specific reason: to let you run Windows files and executables without the problems that you encounter on other distros. We wanted the speed, control, and lightweight feel of Arch, but we also needed to use our favorite Windows programs comfortably without jumping through hoops.
