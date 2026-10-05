@@ -32,5 +32,5 @@ Just download the iso and download like you would Arch Linux: Not yet Available 
 
 ## Contributors
 
-[Unix-Stelle](https://github.com/Unix-Stelle) <br> [BCAS-Team](https://github.com/BCAS-Team) <br> [Placeholder](https://github.com)
+[Unix-Stelle](https://github.com/Unix-Stelle) <br> [BCAS-Team](https://github.com/BCAS-Team) <br> [Krsn](https://github.com/Krsn-7)
 
