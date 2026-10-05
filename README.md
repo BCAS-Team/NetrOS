@@ -3,7 +3,7 @@
 <br> 
 
 <p align="center">
-  <img src="Arch-Logo.svg" width="275">
+  <img src="Misc/Arch-Logo.svg" width="275">
   <br>
   <ins> Placeholder for actual NetrOS logo, it'll be much cooler than this :>  </ins>
 </p>
