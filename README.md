@@ -6,7 +6,10 @@ Built to use all Windows apps on Linux
 
 ## Description
 
-The main focus of this distro is to be fully compatible with Windows applications, without any problems that Wine has. A compatibility layer is built into the distro, helping with the apps Wine can't properly handle; for example, Adobe apps. This will also be able to handle anti-cheats such as battleye, easy-anticheat, etc, making it possible to play major games, such as Rainbow 6 Siege, Call Of Duty, and other Triple A games.
+The main focus of this distro is to be fully compatible with Windows applications, without any problems that 
+Wine has. A compatibility layer is built into the distro, helping with the apps Wine can't properly handle; 
+for example, Adobe apps. This will also be able to handle anti-cheats such as battleye, easy-anticheat, etc, 
+making it possible to play major games, such as Rainbow 6 Siege, Call Of Duty, and other Triple A games.
 
 ## Getting Started
 
@@ -17,4 +20,8 @@ Just download the iso and download like you would Arch Linux: Not yet Available 
 ## Version History
 
 0.0 - Nothing yet...
+
+## Contributors
+
+[Unix-Stelle](https://github.com/Unix-Stelle) <br> [BCAS-Team](https://github.com/BCAS-Team) <br> [Placeholder](https://github.com)
 
