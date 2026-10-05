@@ -12,8 +12,7 @@ The main focus of this distro is to be fully compatible with Windows application
 
 ### Installing
 
-Just download the iso and download like you would Arch Linux:
-"Not yet Available :P"
+Just download the iso and download like you would Arch Linux: Not yet Available :P
 
 ## Version History
 
